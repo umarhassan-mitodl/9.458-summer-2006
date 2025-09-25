@@ -24,6 +24,8 @@ description: 'Parkinson''s disease (PD) has long been considered to be a sporadi
 file: /courses/9-458-parkinsons-disease-workshop-summer-2006/c2ea109f36bdf0095cc7b66861423efa_intro_genetics.pdf
 file_size: 2234910
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

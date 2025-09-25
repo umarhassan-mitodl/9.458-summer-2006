@@ -6,6 +6,8 @@ description: This resource contains topics such as relational memory vs. item me
 file: /courses/9-458-parkinsons-disease-workshop-summer-2006/229d665c981105f280308ac312daa898_pd_workshop.pdf
 file_size: 684268
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
