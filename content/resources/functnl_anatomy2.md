@@ -6,6 +6,8 @@ description: This resource provides information on topics such as functional ana
 file: /courses/9-458-parkinsons-disease-workshop-summer-2006/29c737bab58b797410e2b70d094a7089_functnl_anatomy2.pdf
 file_size: 1424695
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

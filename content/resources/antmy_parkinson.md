@@ -5,6 +5,8 @@ description: 'This resource provides information on topics such as substantia ni
 file: /courses/9-458-parkinsons-disease-workshop-summer-2006/a3ef39b06829ed69102495395d4a979c_antmy_parkinson.pdf
 file_size: 187897
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

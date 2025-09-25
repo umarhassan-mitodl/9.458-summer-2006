@@ -31,6 +31,7 @@
     "website": "9-458-parkinsons-disease-workshop-summer-2006"
   },
   "course_title": "Parkinson's Disease Workshop",
+  "hide_download": true,
   "course_description": "Parkinson's disease (PD) is a chronic, progressive, degenerative disease of the brain that produces movement disorders and deficits in executive functions, working memory, visuospatial functions, and internal control of attention. It is named after James Parkinson (1755-1824), the English neurologist who described the first case.\n\nThis six-week summer workshop explored different aspects of PD, including clinical characteristics, structural neuroimaging, neuropathology, genetics, and cognitive function (mental status, cognitive control processes, working memory, and long-term declarative memory).\u00a0 The workshop did not take up the topics of motor control, nondeclarative memory, or treatment.\n",
   "department_numbers": [
     "9"
@@ -41,6 +42,7 @@
     "content": "3a3f8ac4-cfb9-5b48-36e3-afe223c4bb29",
     "website": "9-458-parkinsons-disease-workshop-summer-2006"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes"
   ],
